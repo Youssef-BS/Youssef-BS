@@ -26,7 +26,12 @@ A Full Stack developer🎯 from tunisia.
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djosef0)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📈 Stats
 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=amendezm&theme=radical" alt="amendezm" width="76%" /></div>
+
+<br/>
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=amendezm.amendezm" alt="visitors"></div>
 <h3> 🤝🏻Connect with Me </h3>
 
 <p align="center">

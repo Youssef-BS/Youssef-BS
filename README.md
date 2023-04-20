@@ -23,12 +23,12 @@ A Full Stack developer🎯 from tunisia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefBenSaid2001&show_icons=true&locale=en&layout=compact" alt="youssef" /></p>
-
-
-<br/>
+<br />
+<br />
 
 
 <h3> 🤝🏻Connect with Me </h3>
+<br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/youssef-ben-said-13051122b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-youssef%20ben said-blue?style=flat-square&logo=linkedin"></a>

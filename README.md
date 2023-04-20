@@ -24,9 +24,9 @@ A Full Stack developer🎯 from tunisia.
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefBenSaid2001&show_icons=true&locale=en&layout=compact" alt="youssef" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Djosef0&show_icons=true&theme=transparent)
+
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djosef0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3> 🤝🏻Connect with Me </h3>
 

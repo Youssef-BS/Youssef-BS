@@ -13,8 +13,8 @@ Software Developer | Android-iOS-React Native
 <div align="center">
  
  # 💻 Full Stack
-![Html](https://img.shields.io/badge/html-%230175C2.svg?style=for-the-badge&logo=html&logoColor=white)
-![Css](https://img.shields.io/badge/css-%230175C2.svg?style=for-the-badge&logo=css&logoColor=white)
+![Html](https://img.shields.io/badge/Html-%230175C2.svg?style=for-the-badge&logo=Html&logoColor=white)
+![Css](https://img.shields.io/badge/Css-%230175C2.svg?style=for-the-badge&logo=Css&logoColor=white)
 ![scss](https://img.shields.io/badge/scss-%230175C2.svg?style=for-the-badge&logo=scss&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%230175C2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%230095D5.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23ED8B00.svg?style=for-the-badge&logo=symfony) 

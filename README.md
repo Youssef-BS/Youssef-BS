@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+TUSHAR...;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+Youssef ;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ---
 Software Developer | Android-iOS-React Native
   
@@ -21,7 +21,7 @@ Software Developer | Android-iOS-React Native
 ![JS](https://img.shields.io/badge/javascript-%230095D5.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23ED8B00.svg?style=for-the-badge&logo=symfony) 
 ![Expressjs](https://img.shields.io/badge/expressjs-%23ED8B00.svg?style=for-the-badge&logo=expressjs) 
 ![Node js](https://img.shields.io/badge/Nodejs-F38020?style=for-the-badge&logo=Nodejs&logoColor=white)
-![React native](https://img.shields.io/badge/ReactNative-%23FF9900.svg?style=for-the-badge&logo=reactNative-aws&logoColor=white)
+![React native](https://img.shields.io/badge/ReactNative-%23FF9900.svg?style=for-the-badge&logo=react-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
 <!-- https://github.com/anuraghazra/github-readme-stats -->

@@ -15,6 +15,7 @@ Software Developer | Android-iOS-React Native
  # 💻 Full Stack
 ![Html](https://img.shields.io/badge/html-%230175C2.svg?style=for-the-badge&logo=html&logoColor=white)
 ![Css](https://img.shields.io/badge/css-%230175C2.svg?style=for-the-badge&logo=css&logoColor=white)
+![scss](https://img.shields.io/badge/scss-%230175C2.svg?style=for-the-badge&logo=scss&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%230095D5.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23ED8B00.svg?style=for-the-badge&logo=symfony) 
 ![Expressjs](https://img.shields.io/badge/expressjs-%23ED8B00.svg?style=for-the-badge&logo=expressjs) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Node js](https://img.shields.io/badge/Nodejs-F38020?style=for-the-badge&logo=Nodejs&logoColor=white) ![React native](https://img.shields.io/badge/ReactNative-%23FF9900.svg?style=for-the-badge&logo=reactNative-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)

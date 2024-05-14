@@ -19,7 +19,7 @@ Fullstack Developer | Android-iOS-React Native | React js-express js-nodejs-symf
 ![bootstrap](https://img.shields.io/badge/bootstrap-%230175C2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![php](https://img.shields.io/badge/php-%230175C2.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%230095D5.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Springboot](https://img.shields.io/badge/springboot-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Springboot](https://img.shields.io/badge/spring-boot-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23ED8B00.svg?style=for-the-badge&logo=symfony) 
 ![Expressjs](https://img.shields.io/badge/express-%23ED8B00.svg?style=for-the-badge&logo=express) 
 ![Node js](https://img.shields.io/badge/Node-F38020?style=for-the-badge&logo=Node&logoColor=white)

@@ -25,7 +25,9 @@ Fullstack Developer | Android-iOS-React Native | React js-express js-nodejs-symf
 ![Node js](https://img.shields.io/badge/Node-F38020?style=for-the-badge&logo=Node&logoColor=white)
 ![React native](https://img.shields.io/badge/ReactNative-%23FF9900.svg?style=for-the-badge&logo=react-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  
+  <p align="center">
+ <img width="1000" src="snake.svg" alt="snake"/>
+</p>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary> ✖️ Click to See More ✖️</summary>

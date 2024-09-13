@@ -23,10 +23,10 @@ Fullstack Developer | Android-iOS-React Native | React js - Angular js -express 
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%2302569B.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23ED8B00.svg?style=for-the-badge&logo=symfony) 
 ![Expressjs](https://img.shields.io/badge/express-%23ED8B00.svg?style=for-the-badge&logo=express) 
-![Node js](https://img.shields.io/badge/Node-F38020?style=for-the-badge&logo=Node&logoColor=white)
+![Node js](https://img.shields.io/badge/Node-F38020?style=for-the-badge&logo=NodeJS&logoColor=white)
 ![React native](https://img.shields.io/badge/ReactNative-%23FF9900.svg?style=for-the-badge&logo=react-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   <p align="center">

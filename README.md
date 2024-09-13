@@ -15,10 +15,10 @@ Fullstack Developer | Android-iOS-React Native | React js - Angular js -express 
  # 💻 Full Stack
 ![Html](https://img.shields.io/badge/Html-%230175C2.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-%230175C2.svg?style=for-the-badge&logo=Css&logoColor=white)
-![scss](https://img.shields.io/badge/scss-%230175C2.svg?style=for-the-badge&logo=scss&logoColor=white)
+![scss](https://img.shields.io/badge/scss-C75B7A.svg?style=for-the-badge&logo=scss&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%230175C2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![php](https://img.shields.io/badge/php-%230175C2.svg?style=for-the-badge&logo=php&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-%230095D5.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![JS](https://img.shields.io/badge/javascript-FFEB00.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TS](https://img.shields.io/badge/typescript-%230095D5.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

@@ -23,7 +23,7 @@ Fullstack Developer | Android-iOS-React Native | React js - Angular js -express 
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%2302569B.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-C7253E.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23ED8B00.svg?style=for-the-badge&logo=symfony) 
 ![Expressjs](https://img.shields.io/badge/express-%23ED8B00.svg?style=for-the-badge&logo=express) 
 ![Node js](https://img.shields.io/badge/Node-F38020?style=for-the-badge&logo=NodeJS&logoColor=white)

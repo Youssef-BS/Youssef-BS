@@ -13,6 +13,7 @@ Fullstack Developer | Android-iOS-React Native | React js - Angular js -express 
 <div align="center">
  
  # 💻 Full Stack
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,tailwind,php,typescript,java,springboot,reactjs,angular,symfony,expressjs,nodejs,reactnative,firebase,mysql,mongodb,postman)](https://skillicons.dev)
 ![Html](https://img.shields.io/badge/Html-%230175C2.svg?style=for-the-badge&logo=Html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-%230175C2.svg?style=for-the-badge&logo=Css&logoColor=white)
 ![scss](https://img.shields.io/badge/scss-C75B7A.svg?style=for-the-badge&logo=scss&logoColor=white)

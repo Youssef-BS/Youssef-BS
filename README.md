@@ -13,7 +13,7 @@ Fullstack Developer | Android-iOS-React Native | React js - Angular js -express 
 <div align="center">
  
  # 💻 Full Stack
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,tailwind,php,typescript,java,spring,react,angular,symfony,expressjs,nodejs,reactnative,firebase,mysql,mongodb,postman)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,tailwind,php,typescript,java,spring,react,redux,angular,symfony,expressjs,nodejs,firebase,mysql,mongodb,postman)](https://skillicons.dev)
   <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>

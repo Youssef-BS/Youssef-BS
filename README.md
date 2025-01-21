@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+Youssef;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ---
-Fullstack Developer | Android-iOS-React Native | React js - Angular js -express js- nodejs - symfony - spring boot
+Fullstack Developer
   
 [![](https://komarev.com/ghpvc/?username=Youssef-BS)](https://github.com/Youssef-BS)
 [![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/youssef-ben-said-13051122b/)

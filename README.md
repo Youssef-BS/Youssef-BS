@@ -15,18 +15,9 @@ Fullstack Developer
  # 💻 Full Stack
 <div align="center">
   <h3>🚀 My Tech Stack 🚀</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,angular,nodejs,express,spring,python,mongodb,mysql,docker,postman,bootstrap,tailwind,git"
-         style="display: inline-block; animation: bounce 2s infinite;">
-  </a>
-  
-  <style>
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
-    }
-  </style>
+  <img src="https://github.com/your-username/your-repo/blob/main/your-animation.gif" width="600px">
 </div>
+
 
 
 

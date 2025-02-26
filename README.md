@@ -13,7 +13,8 @@ Fullstack Developer
 <div align="center">
  
  # 💻 Full Stack
- [![My Skills](https://skillicons.dev/icons?i=next,react,angular,expressjs,nodejs,springboot,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,angular,nodejs,express,springboot,python,mongodb,mysql,docker,postman,bootstrap,tailwind)](https://skillicons.dev)
+
   <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>

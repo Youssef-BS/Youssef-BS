@@ -14,13 +14,11 @@ Fullstack Developer
  
  # 💻 Full Stack
 <div align="center">
-  <h3>🚀 My Tech Stack 🚀</h3>
-  <img src="https://github.com/your-username/your-repo/blob/main/your-animation.gif" width="600px">
+  <h3>My Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,angular,nodejs,express,spring,python,mongodb,mysql,docker,postman,bootstrap,tailwind,git" />
+  </a>
 </div>
-
-
-
-
   <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>

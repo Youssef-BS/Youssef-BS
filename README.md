@@ -11,11 +11,11 @@ Fullstack Developer
 </div>
 
 <div align="center">
- 
+  
  # 💻 Full Stack
+  <img align="center" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNtZzR4MjhvYW9raG55NGd4cGx3dTl0cDF4bzcwZmp5OXBvazZpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" />
 <div align="center">
     <h3>My Tech Stack</h3>
-  <img align="center" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNtZzR4MjhvYW9raG55NGd4cGx3dTl0cDF4bzcwZmp5OXBvazZpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,redux,angular,nodejs,express,spring,python,mongodb,mysql,docker,postman,bootstrap,tailwind,git" />
   </a>

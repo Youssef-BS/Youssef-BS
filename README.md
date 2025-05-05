@@ -16,7 +16,7 @@ Fullstack Developer
 <div align="center">
     <h3>My Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,angular,nodejs,express,spring,python,mongodb,mysql,docker,postman,bootstrap,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,angular,nodejs,express,spring,python,mongodb,postgresql,mysql,docker,postman,bootstrap,tailwind,git" />
   </a>
 </div>
   <p align="center">

@@ -22,14 +22,7 @@ Fullstack Developer
   <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-bs&theme=gotham&layout=compact"width="40%"/> 
-</p>
 
-<p align="center">
-<a href="https://github.com/youssef-bs?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=youssef-bs&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@youssef-bs's github-readme-stats"/></a>
-<a href="https://github.com/youssef-bs?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=youssef-bs&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary> ✖️ Click to See More ✖️</summary>
